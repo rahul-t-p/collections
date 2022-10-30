@@ -1,4 +1,4 @@
-# utils
+# Collections
 A collection of codes for different simple tasks
 
 ## Deep Learning
